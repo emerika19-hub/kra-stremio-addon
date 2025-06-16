@@ -1,0 +1,13 @@
+
+{
+  "name": "kra-stremio-addon",
+  "version": "1.0.0",
+  "description": "kra.sk addon for Stremio",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "stremio-addon-sdk": "^1.1.12"
+  }
+}
